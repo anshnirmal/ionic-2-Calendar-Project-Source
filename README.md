@@ -1,1 +1,1 @@
-# ionic-2-Calendar-Project-Source
+It contains the Ionic 2 Application Source files with the calendar module integrated.
